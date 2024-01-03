@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Roburna Chain",
+    "url": "https://rbascan.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/wongjapan/arbor-assets/master/rba.png"
+  },
+  {
+    "title": "Roburna Chain Testnet",
+    "url": "https://testnet.rbascan.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/wongjapan/arbor-assets/master/rba.png",
+    "isActive": true
+  }
+]
